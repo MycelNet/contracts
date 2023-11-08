@@ -1,2 +1,2 @@
-# ink-zone-file
-Implementation of a DNS zone resource using ink! on Substrate network
+# Ink! Contracts
+Implementations of various service componnents as ink! contracts for deployment to Substrate network(s).
